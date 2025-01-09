@@ -11,6 +11,7 @@ class Animalss{
 class Dogss extends Animalss{
 	void sound() {
 		System.out.println("Dog Sound method");
+		System.out.print("");
 	}
 }
 
